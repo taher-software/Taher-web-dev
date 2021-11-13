@@ -6,7 +6,7 @@
 
 <!-- here start -->
 <div class="highlight highlight-source-js position-relative overflow-auto"><pre><span class="pl-k">const</span> <span class="pl-s1">Taher Haggui</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
-  <span class="pl-c1">lookingFor</span>: <span class="pl-s">"Front-end developer"</span> <span class="pl-c1">||</span> <span class="pl-s">"Data Scientist"</span><span class="pl-kos">,</span>
+  <span class="pl-c1">lookingFor</span>: <span class="pl-s"></span>"Data Scientist" <span class="pl-c1">||</span> <span class="pl-s">"Front-end developer"</span><span class="pl-kos">,</span>
   <span class="pl-c1">pronouns</span>: <span class="pl-kos">[</span><span class="pl-s">"he"</span><span class="pl-kos">,</span> <span class="pl-s">"his"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
   <span class="pl-c1">code</span>: <span class="pl-kos">[</span><span class="pl-v">JavaScript</span><span class="pl-kos">,</span> <span class="pl-v">html</span><span class="pl-kos">,</span> <span class="pl-v">CSS</span><span class="pl-kos">,</span> pyspark,</span> SQL,</span> <span class="pl-v">Machine learning</span> <span class="pl-c1">, Data analysis</span><span class="pl-kos">,</span> <span class="pl-v">Deep learning</span><span class="pl-kos">,</span> 
   <span class="pl-v">Boastrap</span> <span class="pl-c1">...</span><span class="pl-kos">,<span class="pl-kos">]</span><span class="pl-kos">,</span>

@@ -9,9 +9,9 @@
   <span class="pl-c1">lookingFor</span>: <span class="pl-s"></span>"Data Scientist" <span class="pl-c1">||</span> <span class="pl-s">"Full-Stack developer"</span><span class="pl-kos">,</span>
   <span class="pl-c1">pronouns</span>: <span class="pl-kos">[</span><span class="pl-s">"he"</span><span class="pl-kos">,</span> <span class="pl-s">"his"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
   <span class="pl-c1">code</span>: <span class="pl-kos">[</span><span class="pl-v">JavaScript</span><span class="pl-kos">,</span> <span class="pl-v">html</span><span class="pl-kos">,</span> <span class="pl-v">CSS</span><span class="pl-kos">,</span> pyspark,</span> SQL,</span> <span class="pl-v">Machine learning</span> <span class="pl-c1">, Data analysis</span><span class="pl-kos">,</span> <span class="pl-v">Deep learning</span><span class="pl-kos">,</span> 
-  <span class="pl-v">Boastrap</span> <span class="pl-v">React</span> <span class="pl-v">Redux</span> <span class="pl-v">Redux</span><span class="pl-v">Rails</span><span class="pl-c1">...</span><span class="pl-kos">,<span class="pl-kos">]</span><span class="pl-kos">,</span>
+  <span class="pl-v">Boastrap</span> <span class="pl-v">React</span> <span class="pl-v">Redux,</span><span class="pl-v">Ruby</span><span class="pl-v">Rails</span><span class="pl-c1">...</span><span class="pl-kos">,<span class="pl-kos">]</span><span class="pl-kos">,</span>
   <span class="pl-c1">Domain Knowledge</span>: <span class="pl-kos">[</span><span class="pl-v">Web development</span><span class="pl-kos">,</span> <span class="pl-v">Computer Vision</span><span class="pl-kos">,</span> <span class="pl-s1">NLP,</span> <span class="pl-s1">Time Series</span><span class="pl-kos">,</span> <span class="pl-s1">Web scrapping</span>,<span> Manufacturing</span>,<span>logistic</span>,<br>'Business']</span><span class="pl-kos">,</span>
-  <span class="pl-c1">challenge</span>: <span class="pl-s">"I am honing my Front-end skills and picking up back-end skills."</span><span class="pl-kos">,
+  <span class="pl-c1">challenge</span>: <span class="pl-s">"I am honing daily my web development and data science skills."</span><span class="pl-kos">,
 }
 
   </div></div>
